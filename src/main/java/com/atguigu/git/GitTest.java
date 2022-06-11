@@ -14,5 +14,6 @@ public class GitTest {
         System.out.println("kk冲突");
         System.out.println("pushTest");
         System.out.println("pushTest2");
+        System.out.println("pullTest");
     }
 }
