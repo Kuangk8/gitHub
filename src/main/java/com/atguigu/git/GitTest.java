@@ -12,5 +12,6 @@ public class GitTest {
         System.out.println("git-test44");
         System.out.println("Master冲突");
         System.out.println("kk冲突");
+        System.out.println("pushTest");
     }
 }
